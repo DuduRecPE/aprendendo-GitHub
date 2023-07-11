@@ -1,4 +1,4 @@
-# Sistema de cadastro de jogos ALURA
+# Sistema de cadastro de jogos ALURA.
 
 > Status do projeto: Em desenvolvimento
 >
